@@ -1,0 +1,83 @@
+{
+  "id": "uk.co.pocketlawyer.app",
+  "name": "PocketLawyer UK - Legal Companion",
+  "short_name": "PocketLawyer",
+  "description": "Comprehensive UK legal advisor, rights checker, dispute letter generator, and landlord/business toolkit with a 7-day free trial and £2.99/month subscription.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "natural",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Laws Database",
+      "short_name": "Laws DB",
+      "description": "Browse all UK statutes & citizen rights",
+      "url": "/#laws",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Legal Forms",
+      "short_name": "Forms",
+      "description": "AST, loans, car sale, court claims & deed generators",
+      "url": "/#forms",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Emergency Police HUD",
+      "short_name": "Police Rights",
+      "description": "Instant GOWISELY rights, PACE caution, and incident recorder",
+      "url": "/#emergency",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "7-Day Free Trial",
+      "short_name": "Membership",
+      "description": "Manage £2.99/mo subscription and 7-day free trial",
+      "url": "/#subscription",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Landlord & Rent Suite",
+      "short_name": "Landlord",
+      "description": "Section 13, Section 8, and Section 21 tools",
+      "url": "/#landlord",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Late Payment Calculator",
+      "short_name": "Late Payment",
+      "description": "Calculate B2B statutory interest and compensation",
+      "url": "/#accounts",
+      "icons": [{ "src": "/icon.svg", "sizes": "96x96" }]
+    }
+  ]
+}

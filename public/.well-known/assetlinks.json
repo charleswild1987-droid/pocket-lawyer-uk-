@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.pocketlawyer.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:75:A7:CF:C3:74:95:25:29:A4:44:A8:FB:17:EB:28:BE:2F:32:00:1E:E7:F4:71:0D:39:69:6B:41:F0",
+        "A1:B2:C3:D4:E5:F6:07:18:29:3A:4B:5C:6D:7E:8F:90:A1:B2:C3:D4:E5:F6:07:18:29:3A:4B:5C:6D:7E:8F:90"
+      ]
+    }
+  }
+]

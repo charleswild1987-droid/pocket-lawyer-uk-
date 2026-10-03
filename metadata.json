@@ -1,0 +1,6 @@
+{
+  "name": "PocketLawyer UK",
+  "description": "Comprehensive UK legal advisor, rights checker, dispute letter generator, and landlord/business toolkit with a 7-day free trial and £2.99/month subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
